@@ -51,14 +51,6 @@ Team TechNoob
 
                
           </div>
-<div class="footer2">
-<p style="color:#FFF; text-align:right; padding-right:20%;">Find us</p>
-<div id="map">
-       
-   
-    </div>    
-</div>
-
 </div>
        
 </body>
